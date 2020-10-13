@@ -1,0 +1,16 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<!-- salt:5e2652ac-ea7b-4ba8-869f-3ff330de47a4 -->
+<metadata name="xxx" path="/users/composite/admin/xxx" type="CONTAINER" subtype="FOLDER" changeToken="0">
+  <security>
+    <owner user="admin" domain="composite"/>
+  </security>
+  <attribute name="creationDate" type="LONG">1602550671007</attribute>
+  <attribute name="creatorUserDomain" type="STRING">composite</attribute>
+  <attribute name="creatorUserId" type="INTEGER">-1973</attribute>
+  <attribute name="creatorUserName" type="STRING">admin</attribute>
+  <attribute name="lastModifiedDate" type="LONG">1602550671007</attribute>
+  <attribute name="lastModifiedUserDomain" type="STRING">composite</attribute>
+  <attribute name="lastModifiedUserId" type="INTEGER">-1973</attribute>
+  <attribute name="lastModifiedUserName" type="STRING">admin</attribute>
+  <attribute name="resourceModifiedDateOnSourceCISSite" type="LONG">1602550671007</attribute>
+</metadata>
